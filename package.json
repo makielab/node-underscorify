@@ -26,7 +26,7 @@
   "dependencies": {
     "html-minifier": "^0.5.6",
     "through": "~2.2.7",
-    "underscore": "~1.6.0"
+    "underscore": "git+ssh://git@github.com:makielab/underscore.git#trim_templates"
   },
   "devDependencies": {
     "browserify": "~2.4.0"
